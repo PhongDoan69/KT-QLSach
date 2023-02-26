@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 24, 2023, 6:26:37 PM
+    Author     : WIN10
+*/
+AnchorPaned{
+    -fx-Background-color: white;
+}
+HBox{
+    -fx-Background-color: tomato;
+    -fx-padding: 20;
+}
+Label{
+    -fx-font-size: 40;
+    -fx-family: fantasy;
+}
+
